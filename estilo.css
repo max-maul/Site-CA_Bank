@@ -1,0 +1,68 @@
+.navbar {
+    background-color: rgb(255, 208, 0);
+    
+}
+
+.info {
+    border: solid red 1px;
+}
+
+.col1 {
+    border: solid black 1px;
+}
+
+.col2 {
+    border: solid red 1px;
+}
+
+.altura {
+    height: 100vh;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: yellow;
+    overflow-x: hidden;
+    
+}
+
+.margemcima {
+    margin-top: 235px;
+}
+
+.alturanav {
+    height: 30px;
+    border: solid black 1px;
+}
+
+.margemb {
+    margin-bottom: 0;
+}
+
+.margemtopo {
+    margin-top: 100px;
+}
+
+.margemtopo2 {
+    margin-top: 200px;
+}
+
+h1 {
+    font-size: 200px;
+}
+
+.fonte {
+    font-size: 50px;
+}
+
+.margemtopo3 {
+    margin-top: 180px;
+}
+
+.border-custom {
+        box-shadow: 1px 1px 2px ;
+}
+
+.margeml {
+    margin-left: 100px;
+}
