@@ -1,6 +1,6 @@
-.navbar { 
+.navbar {
     background-color: rgb(255, 208, 0);
-     git 
+    
 }
 
 .info {
@@ -65,11 +65,4 @@ h1 {
 
 .margeml {
     margin-left: 100px;
-}
-
-.img-fluid{
-width: 70px;
-height: 70px;
-margin-left: 35px;
-
 }
